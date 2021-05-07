@@ -12,14 +12,14 @@
     ],
     "require": {
         "symfony/framework-bundle": "~2.7|~3.0|^4.4",
-        "symfony/console": "~2.7|~3.0|^4.4"",
-        "symfony/process": "~2.7|~3.0|^4.4"",
-        "symfony/yaml": "~2.7|~3.0|^4.4"",
-        "twig/twig": "^1.28.2|^2.0|^4.4""
+        "symfony/console": "~2.7|~3.0|^4.4",
+        "symfony/process": "~2.7|~3.0|^4.4",
+        "symfony/yaml": "~2.7|~3.0|^4.4",
+        "twig/twig": "^1.28.2|^2.0|^4.4"
     },
     "require-dev": {
-        "symfony/doctrine-bridge": "~2.7|~3.0|^4.4"",
-        "symfony/filesystem": "~2.7|~3.0|^4.4"",
+        "symfony/doctrine-bridge": "~2.7|~3.0|^4.4",
+        "symfony/filesystem": "~2.7|~3.0|^4.4",
         "symfony/phpunit-bridge": "^3.3|^4.4",
         "doctrine/orm": "~2.4"
     },
